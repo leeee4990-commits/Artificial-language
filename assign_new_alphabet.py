@@ -18,4 +18,4 @@ for index, row in new_alphabet.iterrows():
 #csvfile_russian.close
 
 # only God knows what this was^^ I don't remember
-# alphabet is still being worked on, custom letters will be added with LaTeX at some point
+# alphabet is still being worked on, custom letters will be added in first column with LaTeX at some point
