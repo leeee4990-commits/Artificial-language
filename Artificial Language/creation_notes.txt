@@ -1,0 +1,59 @@
+Creating the language (Dictionary) 
+
+Import English, Russian, and Spanish dictionaries via csv 
+
+ 
+
+Compare Russian to English dictionary 
+
+IF translation is direct (Кошка / cat) 
+
+THEN select and store the shortest word (least number of syllables) 
+
+IF number of syllables is the same 
+
+THEN select and store Spanish equivalent 
+
+AND select random (either Russian or english) root word 
+
+ELIF translation is not direct (Родной to home/mother/father) 
+
+THEN select and store the Russian word 
+
+AND swap / add letters accordingly (see grammar structuring notes) 
+
+ELSE  
+
+THEN select and store the Russian word 
+
+AND swap / add letters accordingly (see grammar structuring notes) 
+
+Repeat for English to Russian 
+
+IF word has already been translated and changed according to the above steps 
+
+THEN ignore and continue to next word 
+
+IF translation is direct (cat / kошка) 
+
+THEN select and store the shortest word (least number of syllables) 
+
+IF number of syllables is the same 
+
+THEN select and store Spanish equivalent 
+
+AND select random (either Russian or english) root word 
+
+ELIF translation is not direct (Just / просто ) 
+
+THEN select and store the English word 
+
+AND swap / add letters accordingly (see grammar structuring notes) 
+
+AND ignore (and delete?) smaller unnecessary words that a case system would not need anyway (a, the, in, of) 
+
+Assign new letters to replace Latin and Cyrillic in accordance with pronunciation 
+
+See new alphabet and grammar structuring notes 
+
+Create dictionary with new words and import to spreadsheet 

@@ -1,0 +1,29 @@
+Translation / using the language 
+
+INPUT 
+
+Plaintext is received in English  
+
+PROCESSING 
+
+Translate individual words 
+
+Assign new alphabet to existing letters based on pronunciation 
+
+Phrases / key words are combined (aside from that / кроме этого) 
+
+Assign grammar rules and case system accordingly  
+
+OUTPUT 
+
+Output translated plaintext 
+
+Print “Would you like this in morse code or binary?” 
+
+If ‘morse code’, output translated message in morse 
+
+If ‘binary’, output in binary 
+
+If ‘no’, output ‘ok’ 
+
+ 
