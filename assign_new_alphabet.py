@@ -12,10 +12,10 @@ for index, row in new_alphabet.iterrows():
 
 
 #csvfile_russian = open('Alphabet.csv', 'r', encoding = 'utf-8-sig')
-#host_reader = csv.reader(csvfile_russian, delimiter=',') #comma could be really anything
+#host_reader = csv.reader(csvfile_russian, delimiter=',') # comma could be really anything
 #for row in host_reader:
 #    print(row[0], row[1])
 #csvfile_russian.close
 
-# only God knows what this was^^^, I forgot
+# only God knows what this was^^^, I don't remember
 # alphabet is still being worked on, custom letters will be added with LaTeX at some point
