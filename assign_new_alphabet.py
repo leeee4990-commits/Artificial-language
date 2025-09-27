@@ -17,5 +17,5 @@ for index, row in new_alphabet.iterrows():
 #    print(row[0], row[1])
 #csvfile_russian.close
 
-# only God knows what this was^^^, I don't remember
+# only God knows what this was^^ I don't remember
 # alphabet is still being worked on, custom letters will be added with LaTeX at some point
